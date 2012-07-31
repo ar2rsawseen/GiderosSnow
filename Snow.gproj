@@ -1,0 +1,21 @@
+<project>
+ <properties scaleMode="0" iosDevice="0" xcodeVersion="0" packageName="com.yourdomain.yourapp" logicalHeight="480" logicalWidth="320" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales/>
+ </properties>
+ <file file="Ace.snow.lua"/>
+ <folder name="classes">
+  <file file="button.lua"/>
+  <file file="easing.lua"/>
+  <file file="gtween.lua"/>
+ </folder>
+ <folder name="images">
+  <file file="stop_push.png"/>
+  <file file="start_push.png"/>
+  <file file="add_push.png"/>
+  <file file="stop.png"/>
+  <file file="start.png"/>
+  <file file="snowflake.png"/>
+  <file file="add.png"/>
+ </folder>
+ <file file="main.lua"/>
+</project>
